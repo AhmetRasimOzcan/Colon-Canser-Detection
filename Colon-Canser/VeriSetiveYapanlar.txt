@@ -1,0 +1,4 @@
+Hocam veri setimizi kaggledan alıp masaüstüne indirerek kullandık linki https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images/data
+Projeyi yapan kişiler
+Fatih Parkın 21040301036 Yazılım Mühendisliği	
+Ahmet Rasim Ozcan 21040301060 Yazılım Mühendisliği
